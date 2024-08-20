@@ -4,9 +4,7 @@ import os
 chaves = ('Nome Completo', 'Data de Nascimento', 'CPF', 'Telefone', 'Profissão', 'E-mail', 'Endereço')
 
 # Lista inicial de usuários
-usuarios = [
-    {}
-]
+usuarios = []
 
 while True:
     print(f'\n{"-"*10} Banco de Usuários {"-"*10}')
